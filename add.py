@@ -1,5 +1,5 @@
 a =10
 b =10
-c =a+b+d
-d =101
-print(c)
+c =10
+d =a+b+c
+print(d)
